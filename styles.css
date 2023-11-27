@@ -3,8 +3,9 @@ body {
     background: black; /* Black background */
     color: #00FF00; /* Matrix green */
     overflow: hidden; /* Hide overflow to prevent scrollbars */
+    padding-top: 56px; /* Adjust body padding to accommodate fixed navbar */
   }
-  
+  .navbar { background:transparent }
   .container {
     margin: 50px auto;
     max-width: 600px;
@@ -27,5 +28,9 @@ body {
   .btn:hover {
     background: #00FF00;
     color: black;
+  }
+
+  .github-icon {
+    fill: white;
   }
   
