@@ -1,4 +1,5 @@
-![Repo Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![pages-build-deployment](https://github.com/scarlett-danger/FileGuardian/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/scarlett-danger/FileGuardian/actions/workflows/pages/pages-build-deployment)
+[![Snyk Security](https://github.com/scarlett-danger/FileGuardian/actions/workflows/snyk-security.yml/badge.svg?branch=main)](https://github.com/scarlett-danger/FileGuardian/actions/workflows/snyk-security.yml)
 # Demo
 https://scarlett-danger.github.io/FileGuardian/
 
