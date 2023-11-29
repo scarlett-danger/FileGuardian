@@ -1,3 +1,4 @@
+![Repo Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # Demo
 https://scarlett-danger.github.io/FileGuardian/
 
